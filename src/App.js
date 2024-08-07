@@ -6,6 +6,7 @@ function App() {
   return (
     <div className='main-body'>
     <div className="App">
+      hello
       <Board/>
     </div>
     </div>
